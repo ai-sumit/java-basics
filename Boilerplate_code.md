@@ -1,4 +1,6 @@
 this is java code
+
+```js
 /**
  * Java Boilerplate Code
  * Entry point of a Java program
@@ -10,3 +12,4 @@ public class Main {
     }
 
 }
+```
